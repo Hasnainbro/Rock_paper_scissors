@@ -34,7 +34,7 @@ Experience the classic Rock, Paper, Scissors game with a twist! This Python comm
 
 4. Outcome
 
-** The result of the game will be displayed:**
+**The result of the game will be displayed:**
   * "You Win" if you beat the computer.
   * "Computer Wins" if the computer beats you.
   * "It's a Draw" if you and the computer make the same choice.
